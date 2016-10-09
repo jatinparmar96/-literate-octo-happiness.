@@ -1,8 +1,4 @@
-'''
-Created on Oct 7, 2016
 
-@author: Aditya
-'''
 from xbee import ZigBee
 from serial import Serial
 
