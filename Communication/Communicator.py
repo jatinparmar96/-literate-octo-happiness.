@@ -1,13 +1,6 @@
 #! /usr/bin/python
 
-"""
-'''
-Created on Oct 7, 2016
 
-@author: Aditya
-'''
-
-"""
 
 from xbee import ZigBee
 import serial
